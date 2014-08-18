@@ -1,0 +1,4 @@
+%{"meck": {:git, "git://github.com/basho/meck.git", "d4730c6d47e437b1dcd170551506e7b10596cd5a", [tag: "0.8.1p1"]},
+  "protobuffs": {:git, "git://github.com/basho/erlang_protobuffs.git", "5257dfe4e000b58487af89b849c7336ffa9bae82", [tag: "0.8.1p4"]},
+  "riak_pb": {:git, "git://github.com/basho/riak_pb", "fc18a9b37170431f659e08d66ed78e3f6bbc47ca", [tag: "2.0.0.16"]},
+  "riakc": {:git, "git://github.com/basho/riak-erlang-client.git", "6771318208acc9afc61a918194dcd450e5e8cc7d", []}}
