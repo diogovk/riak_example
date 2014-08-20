@@ -1,7 +1,3 @@
-defmodule Student do
-  @derive [Access]
-  defstruct name: nil, age: nil, email: nil
-end
 
 defmodule RiakExample do
   def put(_, %Student{email: nil}) do
